@@ -231,16 +231,9 @@ My estimated risk aversion parameter:
 ```
 ├── option_pricing.py          # Main implementation
 ├── Q_ready_401_detailed.dta   # Arrow-Debreu price data
-├── requirements.txt           # Python dependencies
-├── README.md                  # This file
-├── examples/
-│   ├── basic_usage.py         # Simple example
-│   ├── advanced_config.py     # Custom configurations
-│   └── results_analysis.py    # Post-estimation analysis
-└── docs/
-    ├── methodology.md         # Detailed mathematical derivation
-    ├── data_description.md    # Data sources and processing
-    └── troubleshooting.md     # Common issues and solutions
+├── requirements.txt           # Python dependencies  
+├── README.md                  # Documentation
+└── LICENSE                    # MIT License
 ```
 
 ## Advanced Features
