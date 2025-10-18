@@ -302,8 +302,10 @@ Potential extensions include:
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/option-subjective-probabilities.git
+git clone https://github.com/Ali-Choubdaran/time-varying-pricing-kernels.git
 cd option-subjective-probabilities
+
+
 
 # Install dependencies
 pip install -r requirements.txt
